@@ -1,7 +1,7 @@
 # yabbs.github.io
 
 ### About {#about}
-I'm a data rationalist and would-be bricoleur. This is my portfolio.
+I'm a data rationalist and bricoleur. This is my portfolio.
 
 ### Portfolio {#portfolio}
 
