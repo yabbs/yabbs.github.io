@@ -9,6 +9,7 @@
 7. Iterate (3-6).
 8. Act/Publish (to decision makers).
 9. Respond to feedback from (8).
-10. Stage in databases, make robust, automate. 
+10. Stage in databases, make robust, automate.
+11. Profit. 
 
 NB Kaggle competitions and job interviews focus on (5) to their detriment.
