@@ -12,4 +12,4 @@
 10. Stage in databases, make robust, automate.
 11. Profit. 
 
-NB Kaggle competitions and job interviews focus on (5) to their detriment.
+NB Coding boot camps, Kaggle competitions and job interviewer questions focus on (5). Too bad.
