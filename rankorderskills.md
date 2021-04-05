@@ -1,4 +1,4 @@
-# Data rationist methodology
+# Data rationalist methodology
 
 1. State problem/opportunity of interest, in terms of decisions to be made and possible outcomes.
 2. To support (1), determine what data to collect and how to get it.
