@@ -1,19 +1,13 @@
 # yabbs.github.io
 
-### About {#about}
-I'm a data rationalist and bricoleur and nomad. 
+Personal notes and reference material collected while building and exploring agentic workflows — LLM agents, tool use, orchestration patterns, and related tooling.
 
-### Stream {#stream}
+## Contents
 
-Job stacking (a.k.a double dipping). 
+- [Agentic Skills (March 2026)](Agentic_skills.md) — Top skills for building, orchestrating, and leveraging agentic AI systems
+- [SQLite CLI Quick Reference](sqlite-cli-guide.md) — Exporting queries to CSV, common commands, and useful flags
 
-Kim Stanley Robinson, 2020. **The ministry for the future**
-- Finished 8/27/21. Black Ops taking out the kleptocs was an interesting take. Far too much hope on the myth of technology saving us from ourselves. 
+## About
 
-Andy Weir, 2021. **Project Hail Mary**
-- Not as good as The Martian (but what is). Of course, science FTW, but it's low prob outcome * low prob outcomes all the way thru. 
+This is a working knowledgebase, not a polished product. Notes are written for my own use and updated as I learn.
 
-# [Going grey](https://yabbs.github.io/grey.md)
-
-### 2021-03-20
-Standing at the shore, a hurricane calls my name.
