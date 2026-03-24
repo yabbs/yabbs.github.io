@@ -5,6 +5,7 @@ Personal notes and reference material collected while building and exploring age
 ## Contents
 
 - [Agentic Skills (March 2026)](Agentic_skills.md) — Top skills for building, orchestrating, and leveraging agentic AI systems
+- [Data Viewer Specification](html_viewer_spec.md) — Requirements for building self-contained, single-file interactive HTML data viewers
 - [SQLite CLI Quick Reference](sqlite-cli-guide.md) — Exporting queries to CSV, common commands, and useful flags
 
 ## About
